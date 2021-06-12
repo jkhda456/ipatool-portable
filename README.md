@@ -24,3 +24,8 @@ download
  --output-dir, -o   : download path or download file name
  --uuid, -u         : MAC address of your owned Mac (without this parameter, use this PC's MAC address)
 ```
+
+## Build
+* use fpc
+* Synapse TCP/IP
+* uJSON_mod (use my repository)
