@@ -1,5 +1,5 @@
 # ipatool-portable
-ipatool-portable is windows/Linux port of majd's ipatool
+ipatool-portable is windows(or Linux) port of majd's ipatool
 (https://github.com/majd/ipatool)
 
 ## Requirements
