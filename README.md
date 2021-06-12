@@ -1,5 +1,6 @@
 # ipatool-portable
 ipatool-portable is windows port of majd's ipatool
+(https://github.com/majd/ipatool)
 
 ## Requirements
 * Apple ID set up to use the App Store.
