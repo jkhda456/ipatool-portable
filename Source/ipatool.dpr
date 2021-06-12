@@ -150,7 +150,6 @@ begin
 
      IPAUtils := TIPAUtils.Create;
      try
-        // 'com.lottecard.LotteMembers'
         if (MainCommand = 'lookup') and CheckParams('appid') then
            writeln( IPAUtils.Lookup(ParamsList.Values['appid'], ParamsList.Values['country'], True) )
 
